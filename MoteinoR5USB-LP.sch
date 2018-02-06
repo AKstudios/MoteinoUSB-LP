@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.2.0">
+<eagle version="8.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -3238,7 +3239,7 @@ Designed by &lt;a href="https://github.com/AKstudios"&gt;AKstudios&lt;/a&gt;</de
 <sheets>
 <sheet>
 <plain>
-<text x="166.116" y="15.748" size="3.81" layer="94" font="vector" ratio="10">Moteino R6-USB</text>
+<text x="166.116" y="15.748" size="3.81" layer="94" font="vector" ratio="10">Moteino R5-USB</text>
 <text x="217.678" y="20.32" size="2.54" layer="94" font="vector">author: Felix Rusu</text>
 <text x="166.37" y="8.382" size="2.54" layer="94" font="vector">http://lowpowerlab.com</text>
 <wire x1="147.32" y1="160.02" x2="147.32" y2="154.94" width="0.1524" layer="96"/>
@@ -4080,7 +4081,7 @@ Designed by &lt;a href="https://github.com/AKstudios"&gt;AKstudios&lt;/a&gt;</de
 </drawing>
 <compatibility>
 <note version="8.2" severity="warning">
-Since Version 8.2, Eagle supports online libraries. The ids
+Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
 with this version.
 </note>
